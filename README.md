@@ -1,2 +1,2 @@
 # HackerRank-Python
-Solutions to Python practice problems.
+Solutions to HackerRank Python practice problems.
